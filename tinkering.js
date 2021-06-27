@@ -1,5 +1,6 @@
-var x = 10;
-while (x <= 25) {
-  console.log('Printing out x = ' + x);
-  x = x + 2;
+function findAverage(x, y) {
+  var answer = (x + y) / 2;
+  return answer;
 }
+
+var avg = findAverage(5, 9);
