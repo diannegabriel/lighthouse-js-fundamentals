@@ -74,19 +74,3 @@ function buildTriangle(width) {
 }
 
 console.log(buildTriangle(10));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
